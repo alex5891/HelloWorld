@@ -13,5 +13,6 @@ int main()
 {
 	cout << "Hello World!!!" << endl;
 	cout << "See you later." << endl;
+	cout << "Yours sincerely, Eclipse." << endl;
 	return 0;
 }
