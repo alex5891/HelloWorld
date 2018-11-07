@@ -7,6 +7,7 @@
 //============================================================================
 
 #include <iostream>
+#include "Messenger.h"
 using namespace std;
 
 int main()
@@ -15,5 +16,7 @@ int main()
 	cout << "See you later." << endl;
 	cout << "Yours sincerely, Eclipse." << endl;
 	cout << "Yours sincerely, Eclipse." << endl;
+	Messenger msg;
+	msg.SayHello();
 	return 0;
 }
