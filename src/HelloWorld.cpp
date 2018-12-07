@@ -16,7 +16,6 @@ int main()
 	cout << "Hello World!!!" << endl;
 	cout << "See you later." << endl;
 	cout << "Yours sincerely, Eclipse." << endl;
-	cout << "Yours sincerely, Eclipse." << endl;
 	Messenger msg;
 	msg.SayHello();
 	return 0;
