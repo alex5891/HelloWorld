@@ -10,6 +10,7 @@
 #include "Messenger.h"
 using namespace std;
 
+// this is a hello world app starting point
 int main()
 {
 	cout << "Hello World!!!" << endl;
