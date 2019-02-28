@@ -10,3 +10,8 @@ void Messenger::SayHelloFormal()
 {
     // TODO: implement
 }
+
+void Messenger::SayHelloInformal()
+{
+    // TODO: implement informal
+}
